@@ -1,13 +1,25 @@
-# Student Grade Calculator
+# Grade Management System
 
-This Python program calculates a student's final grade based on coursework and exam marks.
+An improved Python-based system for managing student grades.
 
 ## Features
-- Accepts student name and marks
-- Calculates weighted final mark
-- Assigns a grade (A–F)
+- Add multiple students
+- Automatic grade calculation
+- Input validation
+- File storage (persistent data)
+- View all student records
 
-## How it works
-Final mark is calculated as:
-- 40% coursework
-- 60% exam
+## Technologies Used
+- Python
+- File Handling
+- Functions & Modular Programming
+
+## How to Run
+1. Run the program:
+   python grade_system.py
+2. Follow the menu options
+
+## Future Improvements
+- GUI interface
+- Database integration
+- Web version using PHP
